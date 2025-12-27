@@ -13,3 +13,5 @@ Positive, Negative, or Neutral using NLP techniques.
 - TextBlob (NLP)
 
 ## Run
+##Output
+[sentiment analysis output](screenshots/output.png)
